@@ -13,19 +13,26 @@ I believe it's **"time to change something."**
 - 🎓 Applied Informatics @ RTU MIREA  
 - 🧰 Currently exploring DevOps, Linux tools, and systems programming
 - 🧑‍💻 Mostly use: Java, Python, Bash  
-- 💻 Tools: Docker, Git, Gradle, VS Code, IntelliJ IDEA  
+- 💻 Tools: Docker, Git, VS Code, IntelliJ IDEA  
 - 🐧 Linux for projects, Windows for experiments  
-- 🤖 Most projects were AI-assisted — except for **GPUStatix**, which I built nearly entirely myself
+- 🤖 Some projects were AI-assisted
 
 ---
 
-### 🔧 My Main Project
+### 🔧 My Main Projects
 
 #### [🖥 GPUStatix](https://github.com/nik1t00s/GPUStatix)
 Linux-native alternative to MSI Afterburner.  
 Monitors GPU load, frequency, and temp — built from scratch with modular design.
 
 > ✅ My most complete and self-written project.
+
+#### [🖥 FlowForge](https://github.com/nik1t00s/FlowForge)
+Graphics data stream pipeline in low-power server environments.  
+Already added Grafana, Mosquitto, RSTP, ClickHouse, cAdvisor.
+
+> ✅ My first project connected with engineering. Used Docker, Grafana
+
 
 ---
 
