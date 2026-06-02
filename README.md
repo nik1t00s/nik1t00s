@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Nikita (aka nik1t00s)
+# Hi, I'm Nikita Chaika 👋
 
-I'm a 3rd-year student at RTU MIREA (Moscow) majoring in **Applied Informatics**, currently diving into **DevOps** and **system engineering**.  
-Mostly passionate about tools, architecture, and performance.  
+I'm a final-year Applied Informatics student at RTU MIREA, focused on business processes, internal IT systems, automation and AI-assisted tools.
+I am interested in roles at the intersection of users, business processes and technology: CRM, business applications, process improvement, documentation, testing and low-code / automation.  
 I believe it's **"time to change something."**
 
 ---
@@ -10,12 +10,12 @@ I believe it's **"time to change something."**
 
 ### 🧠 About Me
 
-- 🎓 Applied Informatics @ RTU MIREA  
-- 🧰 Currently exploring DevOps, Linux tools, and systems programming
-- 🧑‍💻 Mostly use: Java, Python, Bash  
-- 💻 Tools: Docker, Git, VS Code, IntelliJ IDEA  
+- 🎓 Applied Informatics @ RTU MIREA, graduation year: 2026
+- 🧰 Interested in CRM, business process analysis, internal platforms and automation
+- 🧑‍💻 Experience with organizational work, document workflows, spreadsheets and user requests  
+- 💻 Comfortable working with Excel / Google Sheets, Python basics, GitHub and AI tools  
 - 🐧 Linux for projects, Windows for experiments  
-- 🤖 Some projects were AI-assisted
+- 🤖 I use AI-assisted development as a productivity tool, while focusing on understanding, testing, adapting and documenting the final result
 
 ---
 
@@ -25,27 +25,35 @@ I believe it's **"time to change something."**
 Linux-native alternative to MSI Afterburner.  
 Monitors GPU load, frequency, and temp — built from scratch with modular design.
 
-> ✅ My most complete and self-written project.
+> ✅ One of my most complete technical projects.
 
-#### [🖥 FlowForge](https://github.com/nik1t00s/FlowForge)
-Graphics data stream pipeline in low-power server environments.  
+#### [🖥 Trustberry](https://github.com/nik1t00s/Trustberry)
+MVP system for detecting suspicious / fake marketplace reviews using ML/NLP.  
 Already added Grafana, Mosquitto, RSTP, ClickHouse, cAdvisor.
 
-> ✅ My first project connected with engineering. Used Docker, Grafana
+> ✅ Includes FastAPI backend, SQLite storage, basic web interface, data upload and review classification.
 
+#### [🖥 CoverLetterForge](https://github.com/nik1t00s/CoverLetterForge)
+Local desktop tool for generating tailored cover letters using Ollama and local LLM context files.
+
+> ✅ My first productivity tool
+
+#### [🖥 Intelligent-Systems-MIREA](https://github.com/nik1t00s/Intelligent-Systems-MIREA)
+Academic repository for the MIREA intelligent systems course: notebooks, assignments and final project materials.
+
+> ✅ Additional education in the field of AI
 
 ---
 
 ### 🧭 Roadmap — My Goals
 
-- [x] Build my first real Linux-based tool (✅ GPUStatix)
-- [ ] Learn infrastructure as code (Terraform, Ansible)
-- [ ] Explore CI/CD with GitHub Actions / Jenkins
-- [ ] Try cloud providers (AWS / GCP / Yandex Cloud)
-- [ ] Create a self-hosted project from scratch (Docker + Monitoring)
-- [ ] Learn system metrics collection (Prometheus + Grafana)
+- [ ] Business process analysis
+- [ ] CRM / internal business applications
+- [ ] Functional testing
+- [ ] Technical and user documentation
+- [ ] Low-code and AI-assisted automation
+- [ ] Python tools for routine task automation
 - [ ] Write README/docs and try contributing to open-source
-- [ ] Get my first DevOps/Infra internship
 
 ---
 
