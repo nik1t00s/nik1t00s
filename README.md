@@ -60,7 +60,7 @@ Academic repository for the MIREA intelligent systems course: notebooks, assignm
 ### 📫 Get in Touch
 
 - Email: [nikita.chaika@vk.com](mailto:nikita.chaika@vk.com)
-- VK: [vk.com/nikita.chaika]([https://vk.com/nikita.chaika])
+- VK: [vk.com/nikita.chaika](https://vk.com/nikita.chaika)
 
 ---
 
