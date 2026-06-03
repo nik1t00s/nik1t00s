@@ -64,10 +64,6 @@ Academic repository for the MIREA intelligent systems course: notebooks, assignm
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nik1t00s&show_icons=true&theme=tokyonight" />
-</p>
-
 <!---
 nik1t00s/nik1t00s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
